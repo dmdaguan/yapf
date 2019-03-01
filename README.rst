@@ -2,6 +2,8 @@
 YAPF
 ====
 
+即使原始代码没有违反样式指南，YAPF也会获取代码并将其重新格式化为符合样式指南的最佳格式。YAPF 是 Google 开发的一个用来格式化 Python 代码的工具。
+
 .. image:: https://badge.fury.io/py/yapf.svg
     :target: https://badge.fury.io/py/yapf
     :alt: PyPI version
